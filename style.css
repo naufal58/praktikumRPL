@@ -1,0 +1,18 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+    font-family: 'segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#profile-container{
+    max-width: 300px;
+    margin: 80px auto;
+    background-color: antiquewhite;
+}
+#profile-picture{
+    width: 100%;
+    height: auto;
+}
