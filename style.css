@@ -22,6 +22,7 @@ body{
     width: 100%;
     height: 50px;
 }
+
 #header{
     width: 100%;
     height: 100%;
@@ -31,4 +32,8 @@ body{
     color: white;
     bottom: 0;
     position: absolute;
+}
+
+#profile-job{
+    text-align: center;
 }
